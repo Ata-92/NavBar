@@ -1,0 +1,35 @@
+nav {
+    background-color: #555555;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 4rem;
+}
+
+div {
+    background-color: #555555;
+    padding: 1.37rem;
+    margin: 0 1rem;
+    float: left;
+}
+
+div:hover {
+    background-color: black;
+}
+
+#redhome {
+    background-color: #FF0000;
+}
+
+#redhome:hover{
+    background-color: black;
+}
+
+img {
+    width: 1rem;
+    margin: 0 1rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
